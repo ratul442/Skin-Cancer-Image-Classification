@@ -13,3 +13,5 @@ THERE ARE TOTAL OF 7 DIFFERENT KIND OF CLASSES PRESENT HERE WHICH AE TO BE CLASS
 5: vasc - Vascular lesions
 
 6: df - Dermatofibroma
+
+DATASET LINK :- https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
